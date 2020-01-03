@@ -1,2 +1,2 @@
 # cloudformation-pipelines
-AWS cloudformation templates + jenkins pipelines to enable them
+AWS cloudformation templates + cloud-init templates + jenkins pipelines to enable them
